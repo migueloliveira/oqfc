@@ -1,4 +1,4 @@
 .DS_Store
 .rvmrc
-config/config.rb
+;config/config.rb
 *.db
